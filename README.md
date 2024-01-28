@@ -1,4 +1,4 @@
-UAS Pemrograman Jaringan
-Nama  : Anisa Fitriyani
-NIM   : 362389014
+UAS Pemrograman Jaringan <br> 
+Nama  : Anisa Fitriyani <br>
+NIM   : 362389014 <br>
 STMIK - IM
